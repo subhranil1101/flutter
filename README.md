@@ -9,3 +9,15 @@ To get started with the project, make sure you have Flutter installed on your ma
 1. Clone the repository:
    ```bash
    git clone <your-repository-url>
+
+2. Navigate the directory
+   ```bash
+   cd <project-directory>
+
+3. Install the dependencies:
+   ```base
+   flutter pub get
+
+4.Run the app:
+   ```base
+   flutter run
